@@ -31,24 +31,24 @@ If this project helps you, please **star the repo**, **watch it for breakage upd
 <table>
   <tr>
     <td width="33%">
-      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v013_01.png" alt="ChatGPT Web Chat Conversation Exporter screenshot 1" width="100%">
+      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v010_01.png" alt="ChatGPT Web Chat Conversation Exporter screenshot 1" width="100%">
     </td>
     <td width="33%">
-      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v013_02.png" alt="ChatGPT Web Chat Conversation Exporter screenshot 2" width="100%">
+      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v010_02.png" alt="ChatGPT Web Chat Conversation Exporter screenshot 2" width="100%">
     </td>
     <td width="33%">
-      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v013_03.png" alt="ChatGPT Web Chat Conversation Exporter screenshot 3" width="100%">
+      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v010_03.png" alt="ChatGPT Web Chat Conversation Exporter screenshot 3" width="100%">
     </td>
   </tr>
   <tr>
     <td width="33%">
-      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v013_04.png" alt="ChatGPT Web Chat Conversation Exporter screenshot 4" width="100%">
+      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v010_04.png" alt="ChatGPT Web Chat Conversation Exporter screenshot 4" width="100%">
     </td>
     <td width="33%">
-      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v013_05.png" alt="ChatGPT Web Chat Conversation Exporter screenshot 5" width="100%">
+      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v010_05.png" alt="ChatGPT Web Chat Conversation Exporter screenshot 5" width="100%">
     </td>
     <td width="33%">
-      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v013_06.png" alt="ChatGPT Web Chat Conversation Exporter exported Markdown screenshot" width="100%">
+      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v010_06.png" alt="ChatGPT Web Chat Conversation Exporter exported Markdown screenshot" width="100%">
     </td>
   </tr>
 </table>
@@ -61,11 +61,11 @@ If this project helps you, please **star the repo**, **watch it for breakage upd
   <tr>
     <td width="50%" align="center">
       <strong>Part A</strong><br>
-      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v013_a.gif" alt="ChatGPT Web Chat Conversation Exporter demo part A" width="100%">
+      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v010_a.gif" alt="ChatGPT Web Chat Conversation Exporter demo part A" width="100%">
     </td>
     <td width="50%" align="center">
       <strong>Part B</strong><br>
-      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v013_b.gif" alt="ChatGPT Web Chat Conversation Exporter demo part B" width="100%">
+      <img src="docs/assets/chatgpt-web-chat-conversation-exporter_v010_b.gif" alt="ChatGPT Web Chat Conversation Exporter demo part B" width="100%">
     </td>
   </tr>
 </table>
@@ -453,3 +453,4 @@ See:
 ```text
 LICENSE
 ```
+
